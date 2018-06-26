@@ -1,0 +1,344 @@
+<resources>
+    <string name="app_name">Alexander</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fifth">Fifth</string>
+    <string name="fourth">Fourth</string>
+    <string name="alex_location">
+        Alexandria is a port city located on the Mediterranean Sea in northern Egypt founded in 331 BCE by Alexander the Great.\n
+        It is most famous in antiquity as the site of the Pharos,
+        the great lighthouse, considered one of the seven wonders of the ancient world,
+        for the Temple of Serapis, the Serapion, which was part of the legendary library at Alexandria, as a seat of learning and, once,
+        the largest and most prosperous city in the world.\n
+        It also became infamous for the religious strife which resulted in the martyrdom of the philosopher Hypatia of Alexandria in 415 CE.\n
+        The city grew from a small port town to become the grandest and most important metropolis in ancient Egypt.</string>
+    <string name="climate">
+        Alexandria has a borderline hot desert climate approaching a hot semi-arid climate (BSh).\n
+        As the rest of Egypt\'s northern coast, the prevailing north wind, blowing across the Mediterranean,
+        gives the city a less severe climate from the desert hinterland.\nRafah and Alexandria are the wettest places in Egypt
+        the other wettest places are Rosetta, Baltim, Kafr el-Dawwar, and Mersa Matruh.\n The city\'s climate is influenced by
+        the Mediterranean Sea, moderating its temperatures, causing variable rainy winters and moderately hot summers that,
+        at times, can be very humid; January and February are the coolest months, with daily maximum temperatures typically ranging
+        from\n 12 to 18 °C (54 to 64 °F) and minimum temperatures that could reach 5 °C (41 °F).\n Alexandria experiences violent storms,
+        rain and sometimes snow, sleet and hail during the cooler months; these events, combined with a poor drainage system,
+        have been responsible for occasional flooding in the city. \nJuly and August are the hottest and driest months of the year,
+        with an average daily maximum temperature of 30 °C (86 °F). \nThe average annual rainfall is around 200 mm (7.9 in)
+        but has been as high as 417 mm (16.4 in)
+        Port Said, Kosseir, Baltim, Damietta and Alexandria have the least temperature variation in Egypt.\n
+        The highest recorded temperature was 45 °C (113 °F) on May 30, 1961,
+        and the coldest recorded temperature was 0 °C (32 °F) on January 31, 1994.
+</string>
+    <string name="alexander_the_great">
+        Alexandria is believed to have been founded by Alexander the Great in April 332 BC as  (Alexandria).\n
+        Alexander\'s chief architect for the project was Dinocrates.\n
+        Alexandria was intended to supersede Naucratis as a Hellenistic center in Egypt, and to be the link between Greece and
+        the rich Nile valley.\n Although it has long been believed only a small village there, recent radiocarbon dating of seashell
+        fragments and lead contamination show significant human activity at the location for two millennia preceding Alexandria\'s founding
+        Alexandria was the intellectual and cultural center of the ancient world for some time.\n
+        The city and its museum attracted many of the greatest scholars, including Greeks, Jews and Syrians.\n
+        The city was later plundered and lost its significance.\n
+        In the early Christian Church, the city was the center of the Patriarchate of Alexandria,
+        which was one of the major centers of early Christianity in the Eastern Roman Empire.\n
+        In the modern world, the Coptic Orthodox Church and the Greek Orthodox Church of Alexandria both lay claim to this ancient heritage.\n
+        Just east of Alexandria (where Abu Qir Bay is now), there was in ancient times marshland and several islands.\n As early as the 7th century BC,
+        there existed important port cities of Canopus and Heracleion.\n The latter was recently rediscovered under water.\n
+        An Egyptian city, Rhakotis, already existed on the shore and later gave its name to Alexandria in the Egyptian language.\n
+        It continued to exist as the Egyptian quarter of the city.\n A few months after the foundation,
+        Alexander left Egypt and never returned to his city.\n After Alexander\'s departure, his viceroy, Cleomenes, continued the expansion.\n
+        Following a struggle with the other successors of Alexander,
+        his general Ptolemy Lagides succeeded in bringing Alexander\'s body to Alexandria,
+        though it was eventually lost after being separated from its burial site there.
+    </string>
+    <string name="Muhammads_era">
+        The Islamic prophet Muhammad\'s first interaction with the people of Egypt occurred in 628,
+        during the Expedition of Zaid ibn Haritha (Hisma).\n He sent Hatib bin Abi Baltaeh with a letter to the king of Egypt
+        (in reality Emperor Heraclius) and Alexandria called Muqawqis In the letter Muhammad said: "I invite you to accept Islam,
+        Allah the sublime, shall reward you doubly. \nBut if you refuse to do so,
+        you will bear the burden of the transgression of all the Copts".\n
+        During this expedition one of Muhammad\'s envoys Dihyah bin Khalifa Kalbi was attacked, Muhammad sent Zayd ibn Haritha to help him.\n
+        Dihya approached the Banu Dubayb (a tribe which converted to Islam and had good relations with Muslims) for help.\n
+        When the news reached Muhammad, he immediately dispatched Zayd ibn Haritha with 500 men to battle.\n
+        The Muslim army fought with Banu Judham, killed several of them (inflicting heavy casualties), including their chief,
+        Al-Hunayd ibn Arid and his son, and captured 1000 camels, 5000 of their cattle and 100 women and boys.\n
+        The new chief of the Banu Judham who had embraced Islam appealed to Muhammad to release his fellow tribesmen,
+        and Muhammad released them.
+    </string>
+    <string name="ibn_battuta">
+        In reference to Alexandria, Egypt, Ibn Battuta speaks of great saints that resided here.\n
+        One of them being Imam Borhan Oddin El Aaraj.\n He was said to have the power of working miracles.\n
+        He told Ibn Battuta that he should go find his three brothers, Farid Oddin, who lived in India,
+        Rokn Oddin Ibn Zakarya, who lived in Sindia, and Borhan Oddin, who lived in China.\n
+        Battuta then made it his purpose to find these people and give them his compliments.\n
+        Sheikh Yakut was another great man.\nHe was the disciple of Sheikh Abu Abbas El Mursi,
+        who was the disciple of Abu El Hasan El Shadali, who is known to be a servant of God.\n
+        Abu Abbas was the author of the Hizb El Bahr and was famous for piety and miracles.\n
+        Abu Abd Allah El Murshidi was a great interpreting saint that lived secluded in the Minyat of Ibn Murshed.\n
+        He lived alone but was visited daily by emirs, viziers, and crowds that wished to eat with him.\n
+        The Sultan of Egypt (El Malik El Nasir) visited him, as well.\n Ibn Battuta left Alexandria with the intent of visiting him.
+    </string>
+    <string name="temple_of_tapo">
+        The temple was built in the Ptolemy era and dedicated to Osiris, which finished the construction of Alexandria.\n
+        It is located in Abusir, the western suburb of Alexandria in Borg el Arab city.\n
+        Only the outer wall and the pylons remain from the temple.\n
+        There is evidence to prove that sacred animals were worshiped there.\n
+        Archaeologists found an animal necropolis near the temple.\n
+        Remains of a Christian church show that the temple was used as a church in later centuries.\n
+        Also found in the same area are remains of public baths built by the emperor Justinian, a seawall, quays and a bridge.\n
+        Near the beach side of the area, there are the remains of a tower built by Ptolemy II Philadelphus.\n
+        The tower was an exact scale replica of the destroyed Alexandrine Pharos Lighthouse.
+    </string>
+    <string name="library_of_alex">
+        The Royal Library of Alexandria or Ancient Library of Alexandria in Alexandria, Egypt,
+        was one of the largest and most significant libraries of the ancient world.\n
+        It was dedicated to the Muses, the nine goddesses of the arts.\n
+        It flourished under the patronage of the Ptolemaic dynasty and functioned as a major center of scholarship from
+        its construction in the 3rd century BC until the Roman conquest of Egypt in 30 BC, with collections of works,
+        lecture halls, meeting rooms, and gardens.\n Alexandria was considered the capital of knowledge and learning,
+        in part because of the Great Library. \nThe library was part of a larger research institution called the Musaeum of Alexandria,
+        where many of the most famous thinkers of the ancient world studied.\n
+        The library was created by Ptolemy I Soter, who was a Macedonian general and the successor of Alexander the Great.\n
+        Most of the books were kept as papyrus scrolls. \nIt is unknown precisely how many such scrolls were housed at any given time,
+        but estimates range from 40,000 to 400,000 at its height.\n
+        Arguably, this library is most famous for having been burned down resulting in the loss of many scrolls and books;
+        its destruction has become a symbol for the loss of cultural knowledge.\n
+        Sources differ on who was responsible for its destruction and when it occurred.\n
+        The library may in truth have suffered several fires over many years.\n
+        In addition to fires, at least one earthquake damaged the city and the library during this time.\n
+        Possible occasions for the partial or complete destruction of the Library of Alexandria include a fire set
+        by the army of Julius Caesar in 48 BC and an attack by Aurelian in the 270s AD.\n
+        After the main library was destroyed, scholars used a "daughter library" in a temple known as the Serapeum of Alexandria,
+        located in another part of the city. \nAccording to Socrates of Constantinople,
+        Coptic Pope Theophilus destroyed the Serapeum in AD 391,
+        although it is not certain what it contained or if it contained any significant fraction of the documents
+        that were in the main library.
+    </string>
+    <string name="graeco_roman_museum">
+        The Graeco-Roman Museum is an archaeological museum located in Alexandria, Egypt.\n
+        Erected in 1892, it was first built in a five-room apartment,
+        inside one small building on Rosetta Street (later Avenue Canope and now Horriya).\n
+        In 1895, it was transferred to another, larger building near Gamal Abdul Nasser Street.\n
+        The museum contains several pieces dating from the Graeco-Roman (Ptolemaic) era in the 3rd century BC,
+        such as a sculpture of Apis in black granite, the sacred bull of the Egyptians, mummies, sarcophagus, tapestries,
+        and other objects offering a view of Greco-Roman civilization in contact with ancient Egypt.\n
+        The museum\'s collection is the product of donations from wealthy Alexandrians as well as of excavations led
+        by successive directors of the institution, both within the town and in its environs.\n
+        Certain other objects have come from the Organization of Antiquities at Cairo (particularly those of the Pharaonic period)
+        and from various digs undertaken at the beginning of the century in Fayoum and at Benhasa.\n
+        Housed within a historic building whose beautiful neoclassical facade of six columns and pediment
+        bears the large Greek inscription ‘MOYΣEION’ (MOUSEION).\n
+        The museum consists of 27 halls and an attractive garden,
+        which offer an excellent introduction to Egypt\'s Greco-Roman period.
+    </string>
+    <string name="montaza_palace">
+        The extensive Montaza Palace grounds first had the Salamlek Palace, built in 1892 by Khedive Abbas II,
+        the last Muhammad Ali Dynastyruler to hold the Khedive title over the Khedivate of Egypt and Sudan.\n
+        It was used as a hunting lodge and residence for his companion.\n
+        The larger Al-Haramlik Palace and royal gardens were added to the Montaza Palace grounds, being built by King Fuad I in 1932,
+        as a summer palace. \nIt is in a mixture of Ottoman and Florentine styles, with two towers.\n
+        One of these towers rises distinctively high above with elaborated Italian Renaissance design details.\n
+        The palace has long open arcades facing the sea along each floor.\n
+        President Anwar El-Sadat renovated the original Salamlek Palace as an official presidential residence.
+    </string>
+    <string name="opera_house">
+       Alexandria Opera House Constructed in 1918 during the reign of Sultan Fuad 1.\n
+        It named Muhammad Ali Theater.\n The original owner of Alexandria of it.\n In 1921,
+        Alexandria Opera House was host to celebrated Arab and foreign singers.\n
+        In 1962 Alexandria Opera House renamed “Sayed Darwish Theater” to honor Mr.Sayed Darwish.\n
+        Sayd Darwish a famous Egyptian musician.\n Moreover, Sayd Darwish is the one who composed the Egyptian national anthem.\n
+        Unfortunately, the ravages of time destroyed the exquisite beauty of Alexandria Opera House Building.
+    </string>
+    <string name="san_stefano">
+        San Stefano Grand Plaza Alexandria is a structural complex.\n
+        It includes Four Seasons Hotel, apartments, offices and a shopping mall.\n
+        Moreover, it also has a marina in Alexandria, Egypt.\n Furthermore, it is on of its most luxurious areas in Alexandria.\n
+        Four Seasons hotel features spacious gues rooms. Rooms feature balconies with view of the city, pool, or sea.\n
+        They also feature LED TVs, signature bedding and marble bathrooms.\n The bathrooms are with deep soaking tubs.
+    </string>
+    <string name="city_centre">
+        Suitably located on the Alexandria Cairo Desert Road, opposite to the Alexandria International Park,
+        City Centre Alexandria is just 15 minutes from downtown.\n
+        The landmark shopping destination opened in January 2003 to offer its customers a unique shopping and entertainment experience.\n
+        The Centre has recently completed a massive extension programme that has increased the total number of retail stores in the mall
+        from 97 to over 160, spread over a trading area of 60,370 square metres.\n
+        With an eclectic mix of world class brands and retailers, a 14,771 square metre Carrefour Hypermarket, seven-screen renaissance cinema,
+        an international food court and the popular family entertainment destination- Magic Planet- City Centre Alexandria
+        is the biggest shopping mall in the city.\n
+        It provides an international shopping experience to the residents and visitors of Alexandria.
+    </string>
+    <string name="northern_coast">
+        On contrast to Egypt\'s Red Sea Riviera,
+        its Mediterranean coastline is totally plain with low altitude shrublands along the region,
+        except for the westernmost portion which is formed by the 400m-high Marmarika Plateau.\n
+        It is also characterised by the occurrence of Egypt\'s five northernmost lakes.\n
+        The region has typical Mediterranean flora and fauna on land and in marine life with the weather being between pleasant and hot
+        during summer and mild in winter. \nThe region receives the most rain in Egypt, hail and sleet fall rarely in winter.\n
+        Snowfallsoccur in some inland towns and locations.
+    </string>
+    <string name="greek_era">
+        331 BCE – Rhacotis renamed "Alexandria" by Alexander the Great (approximate date).\n
+        330 BCE – Cleomenes of Naucratis appointed Governor of Egypt by Alexander, begins to turn the small village into the Capitol of Egypt.\n
+        323–30 BCE Egypt\'s capital under Ptolemaic dynasty
+        323 BCE – Alexander dies.\n Ptolemy I Soter appointed "Satrap" of Egypt.\n
+        305 BCE – Ptolemy I proclaims himself king.\n
+        283 BCE – Library of Alexandria opens (approximate date).\n
+        247 BCE – Lighthouse of Alexandria built (approximate date).\n
+        170 BCE – Selucid "Emperor" Antiochus IV Epiphanes briefly conquers Egypt
+        168 BCE – First Roman intervention.\n City briefly invaded.\n
+        1st century BC – Caesareum built.\n
+        50 BC–330 CE Romans in power\n
+        48 BCE – Julius Caesar conquers Alexandria.\n
+        48 BCE – Great Royal Library of Alexandria burned.\n
+        47 BCE – Siege of Alexandria.\n
+        47 BCE – Caesar victorious.\n
+        44 BCE – Assassination of Julius Caesar in Rome.\n
+        40 BCE – Cleopatra VII marries Roman triumvir Mark Antony.\n
+        31 BCE – Death of Antony and Cleopatra.\n
+        30 BCE – Battle of Alexandria.\n
+        29 BCE – Augustus takes city.\n Cornelius Gallus first prefect of Egypt.\n
+        25 BCE – Strabo, the Greek geographer and philosopher, visits Alexandria.\n
+        19 CE – Germanicus resident in city.\n
+        38 CE – Pogrom against Jews.\n
+        115 CE – City sacked during a Jewish revolt.\n Possible genocide.\n
+        122 CE – Hadrian rebuilds city.\n
+        175 CE – Failed revolution of Avidius Cassius.\n
+        176 CE – Catechetical School of Alexandria (oldest such school in the world) founded.\n Some records say 190 AD. \nSee article.\n
+        297 CE – Pompey\'s Pillar built.\n
+        365 CE – The 365 Crete earthquake affects the Greek island of Crete with a maximum Mercalli intensity of XI (Extreme),
+        causing a destructive tsunami that affects the coasts of Libya and Egypt, especially Alexandria.\n Many thousands were killed.
+    </string>
+    <string name="rules">
+        Byzantine rule 390–650\n
+       \n 391 CE – Theodosius I orders destruction of pagan temples.\n
+        395 CE – Roman Empire formally split in two.\n The official start of so-called Byzantine Empire.\n
+        415 CE – Lynching of the philosopher Hypatia by a radical Christian mob. \n
+        The expulsion of the Jews from Alexandria, in 414 or 415 CE under the leadership of Saint Cyril.\n
+        Around 100000 Jews expelled - another Pogrom or "Alexandria Expulsion".\n
+        619 CE – City besieged; Sassanid Persians in power.\n
+        641–642 CE – City besieged; Arabs in power; capital of Egypt relocates from Alexandria to Fustat.\n
+        645 CE – Byzantines back in power.\n
+      \n  Muslim Rule 700–1800\n
+        \n680 CE – Saint Mark\'s Coptic Orthodox Cathedral rebuilt.\n
+        956 CE – Earthquake.\n
+        1303 CE – Earthquake.\n
+        1323 CE – Earthquake.\n The Pharos lighthouse collapses.\n
+        1354 CE – Eliyahu Hanavi Synagogue built.\n
+        1365 CE – October: City besieged by Cypriot forces.\n
+        1381 CE – Zaradel Synagogue established.\n
+        1477 CE – Citadel of Qaitbay established.\n
+        1519 CE – Ottoman conquest\n
+        1775 – El-Mursi Abul Abbas Mosque built.\n
+        1798 – French forces under Napoleon Bonaparte besiege and conquer what is now just a town.\n
+        1800 – Nadir of the city.\n Population: a mere 8,000.\n
+    </string>
+    <string name="the_19th_century">
+        1801\n
+        21 March: Battle between French and British forces.\n
+        17 August – 2 September: City besieged by British forces.\n
+        2 September: Capitulation to British.\n
+        1819 – Mahmoudiyah Canal constructed.\n
+        1821 – Population: 12,528.\n
+        1829 – Dockyard and arsenal open.\n
+        1833 – April: Luxor Obelisk shipped to Paris.\n
+        1834 – Ras el-Tin Palace construction begins.\n
+        1840 – Population: 60,000.\n
+        1847 – Ras el-Tin Palace built.\n
+        1850 – Eliyahu Hanavi Synagogue restored.\n
+        1853 – Azouz Synagogue rebuilt.\n
+        1856\n
+        Cairo-Alexandria railway begins operating.\n
+        Cathedral of Evangelismos dedicated.\n
+        1859\n
+        Institut d\'Egypte founded.\n
+        Theatre Europeen reopens.\n
+        1860 – Alexandria Ramleh Train Station established.\n
+        1862 – Theatre Zizinia built.\n
+        1861 – Cotton boom.\n
+        1863\n
+        Horse-drawn trams begin operating.\n
+        Population: 170,000.\n
+        1865 – Gas lighting introduced.\n
+        1865–1869 – New port created.\n
+        1872 – Population ca.\n 200,000 (ca. 20% foreigners).\n
+        1873\n
+        Breakwater built in harbor.\n
+        Statue unveiled in Midan Muhammad Ali.\n
+        1875 – Al-Ahram newspaper begins publication.\n
+        1877 – One of Cleopatra\'s Needles shipped to London.\n
+        1880 – The Egyptian Gazette launched in Alexandria.\n
+        1880 – One of Cleopatra\'s Needles shipped to New York City.\n
+        1880 – Zaradel Synagogue restored.\n
+        1881 – al-Tankit wa al-Tabkit newspaper begins publication.\n
+        1882\n
+        11 July: Anti-European riots; city bombarded by British naval forces.\n
+        Population: 232,626.\n
+        1883 – Alexandria Stock Exchange founded.\n
+        1887 – El-Hakaneia Palace built.\n
+        1892\n
+        Graeco-Roman Museum established.\n
+        Salamlek Palace built.
+    </string>
+    <string name="the_20th_century">
+        1901 – Green Synagogue established.\n
+        1902\n
+        Electric trams begin operating.\n
+        Victoria College founded.\n
+        1903 – Khedivial yacht club built.\n
+        1905 – Sea wall constructed.\n
+        1907 – Population: 332,246.\n
+        1910 – Hellenic Football Club Alexandria formed.\n
+        1910 – Sasson Synagogue established.\n
+        1914 – Al Ittihad Alexandria Club formed.\n
+        1917 – Population ca. \n460,000 (ca. 20% foreigners).\n
+        1919 – Princess Fatma Al-Zahra palace built.\n
+        1920 – Castro Synagogue established.\n
+        1920 – Nezah Israel Synagogue established.\n
+        1921 – Alexandria Opera House opens.\n
+        1922 – Shaaré Tefila Synagogue established.\n
+        1925 – Scottish School for Girls founded.\n
+        1927 – Population ca.\n 600,000 (ca. 17% foreigners).\n
+        1928 – Collège Saint Marc founded.\n
+        1929\n
+        Alexandria Stadium opens.\n
+        English Boys\' School established.\n
+        1930 – Alexandria Aquarium opens.\n
+        1932 – Al-Haramlik Palace built.\n
+        1934 – Corniche constructed.\n
+        1935 – English Girls College founded.\n
+        1937 – Eliahou Hazan Synagogue established.\n
+        1938 – Publication of The Egyptian Gazette moved from Alexandria to Cairo.\n
+        1941 – 19 December: Conflict between Italian and British naval forces.\n
+        1942 – Farouk University established.\n
+        1947 – Population: 919,024; (ca. 7% foreigners).\n
+        1950 – Hassab hospital established.\n
+        1952 – Egyptian Revolution.\n
+        1954 – 26 October: Attempted assassination of Nasser during speech in Mansheya.\n
+        1958 – Alexandria Zoo opens.\n
+        1960 – Siddiq Abdul-Latif becomes mayor.\n
+        1964 – September: Arab League summit held.\n
+        1965 – Population ca. 1.5 million.\n
+        1969 – St. Takla Haymanot\'s Church consecrated.\n
+        1974 – Population: 2,259,000.\n
+        1980 – El Alamein-Alexandria highway constructed.\n
+        1986\n
+        Ismail El-Gawsaqi becomes mayor.\n
+        Port of Dekheila constructed.\n
+        Royal Jewelry Museum inaugurated.\n
+        1990 – Senghor University founded.\n
+        1992 – Population: 3,380,000 (estimate).\n
+        1996 – Alexandria Institute Of Technology founded.\n
+        1997 – Abdel-Salam El-Mahgoub becomes mayor.\n
+        1999 – Swedish Institute Alexandria established.\n
+    </string>
+
+
+    <string name="Fragment1">Geo</string>
+    <string name="Fragment2">Historical</string>
+    <string name="Fragment3">Public</string>
+    <string name="Fragment4">Entertainment</string>
+    <string name="Fragment5">Events</string>
+    <string name="Fragment6">Secrets</string>
+    <string name="title">Title</string>
+    <string name="data">Data</string>
+    <string name="details">Details</string>
+</resources>

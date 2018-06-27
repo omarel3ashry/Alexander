@@ -20,10 +20,10 @@ public class PublicPlaces extends Fragment {
         View rootView = inflater.inflate(R.layout.data_list, container, false);
 
         final ArrayList<Data> publicPlaces = new ArrayList<>();
-        publicPlaces.add(new Data(R.drawable.alex_library, "Library of Alexandria"));
-        publicPlaces.add(new Data(R.drawable.graeco_roman_museum, "Graeco-Roman Museum"));
-        publicPlaces.add(new Data(R.drawable.montaza_palace, "Montaza Palace"));
-        publicPlaces.add(new Data(R.drawable.alexandria_opera_house, "Alexandria Opera House"));
+        publicPlaces.add(new Data(R.drawable.alex_library, getString(R.string.library_txt)));
+        publicPlaces.add(new Data(R.drawable.graeco_roman_museum, getString(R.string.graeco_roman_txt)));
+        publicPlaces.add(new Data(R.drawable.montaza_palace, getString(R.string.montaza_txt)));
+        publicPlaces.add(new Data(R.drawable.alexandria_opera_house, getString(R.string.alex_opera_txt)));
         Adapter adapter = new Adapter(getActivity(), publicPlaces);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
@@ -31,7 +31,7 @@ public class PublicPlaces extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(getActivity(), DetailsActivity.class);
-                intent.putExtra("getdata", (Parcelable) publicPlaces.get(position));
+                intent.putExtra(getString(R.string.getdata), (Parcelable) publicPlaces.get(position));
                 startActivity(intent);
             }
         });

@@ -19,8 +19,8 @@ public class GeoInfo extends Fragment {
         View rootView = inflater.inflate(R.layout.data_list, container, false);
 
         final ArrayList<Data> geo = new ArrayList<>();
-        geo.add(new Data(R.drawable.location, "Location in Egypt"));
-        geo.add(new Data(R.drawable.climate, "Climate"));
+        geo.add(new Data(R.drawable.location, getString(R.string.location_in_egypt)));
+        geo.add(new Data(R.drawable.climate, getString(R.string.climate_txt)));
         Adapter adapter = new Adapter(getActivity(), geo);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
@@ -28,7 +28,7 @@ public class GeoInfo extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(getActivity(), DetailsActivity.class);
-                intent.putExtra("getdata", (Parcelable) geo.get(position));
+                intent.putExtra(getString(R.string.getdata), (Parcelable) geo.get(position));
                 startActivity(intent);
             }
         });

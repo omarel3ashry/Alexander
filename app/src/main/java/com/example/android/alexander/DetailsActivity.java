@@ -4,13 +4,12 @@ import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
-import android.support.design.widget.CoordinatorLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.support.v7.widget.Toolbar;
 
 public class DetailsActivity extends AppCompatActivity {
 
@@ -33,46 +32,44 @@ public class DetailsActivity extends AppCompatActivity {
         detailImage = findViewById(R.id.detail_img);
         textView = findViewById(R.id.detail_txt);
         final Intent intent = getIntent();
-        Data data = intent.getParcelableExtra("getdata");
+        Data data = intent.getParcelableExtra(getString(R.string.getdata));
         int imgID = data.getImgID();
         String text = data.getTitle();
         detailImage.setImageResource(imgID);
         toolbar.setTitle(text);
-        if (text.equals("Location in Egypt")) {
+        if (text.equals(getString(R.string.location_in_egypt))) {
             geoClass_index_0();
-        } else if (text.equals("Climate")) {
+        } else if (text.equals(getString(R.string.climate_txt))) {
             geoClass_index_1();
-        } else if (text.equals("Alexander The Great")) {
+        } else if (text.equals(getString(R.string.alexander_txt))) {
             histClass_index_0();
-        } else if (text.equals("Muhammad's era")) {
+        } else if (text.equals(getString(R.string.islams_era_txt))) {
             histClass_index_1();
-        } else if (text.equals("Ibn Battuta in Alex")) {
+        } else if (text.equals(getString(R.string.ibn_battuta_text))) {
             histClass_index_2();
-        } else if (text.equals("Temple of Taposiris Magna")) {
+        } else if (text.equals(getString(R.string.temple_txt))) {
             histClass_index_3();
-        } else if (text.equals("Library of Alexandria")) {
+        } else if (text.equals(getString(R.string.library_txt))) {
             publicPlacesClass_index_0();
-        } else if (text.equals("Graeco-Roman Museum")) {
+        } else if (text.equals(getString(R.string.graeco_roman_txt))) {
             publicPlacesClass_index_1();
-        } else if (text.equals("Montaza Palace")) {
+        } else if (text.equals(getString(R.string.montaza_txt))) {
             publicPlacesClass_index_2();
-        } else if (text.equals("Montaza Palace")) {
-            publicPlacesClass_index_2();
-        } else if (text.equals("Alexandria Opera House")) {
+        } else if (text.equals(getString(R.string.alex_opera_txt))) {
             publicPlacesClass_index_3();
-        } else if (text.equals("San Stefano Grand Plaza")) {
+        } else if (text.equals(getString(R.string.san_txt))) {
             entertainClass_index_0();
-        } else if (text.equals("City Centre")) {
+        } else if (text.equals(getString(R.string.city_txt))) {
             entertainClass_index_1();
-        } else if (text.equals("Northern Coast")) {
+        } else if (text.equals(getString(R.string.coast_txt))) {
             entertainClass_index_2();
-        } else if (text.equals("Greek era")) {
+        } else if (text.equals(getString(R.string.greek_era_txt))) {
             eventsClass_index_0();
-        } else if (text.equals("Byzantine & Muslim Rules")) {
+        } else if (text.equals(getString(R.string.byzantine_muslim_txt))) {
             eventsClass_index_1();
-        } else if (text.equals("19th Century")) {
+        } else if (text.equals(getString(R.string.the_19th_txt))) {
             eventsClass_index_2();
-        } else if (text.equals("20th Century")) {
+        } else if (text.equals(getString(R.string.the_20th_txt))) {
             eventsClass_index_3();
         }
 
@@ -92,9 +89,9 @@ public class DetailsActivity extends AppCompatActivity {
     public void geoClass_index_0() {
 
         textView.setText(R.string.alex_location);
-        uri = Uri.parse("geo:31.2,29.916667");
+        uri = Uri.parse(getString(R.string.alex_location_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
 
     }
 
@@ -126,56 +123,56 @@ public class DetailsActivity extends AppCompatActivity {
 
     public void publicPlacesClass_index_0() {
         textView.setText(R.string.library_of_alex);
-        uri = Uri.parse("geo:31.208889,29.909167");
+        uri = Uri.parse(getString(R.string.alex_library_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
 
     }
 
     public void publicPlacesClass_index_1() {
         textView.setText(R.string.graeco_roman_museum);
-        uri = Uri.parse("geo:31.199259,29.906872");
+        uri = Uri.parse(getString(R.string.graeco_roman_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
 
     }
 
     public void publicPlacesClass_index_2() {
         textView.setText(R.string.montaza_palace);
-        uri = Uri.parse("geo:31.2886,30.0159");
+        uri = Uri.parse(getString(R.string.montaza_palace_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
 
     }
 
     public void publicPlacesClass_index_3() {
         textView.setText(R.string.opera_house);
-        uri = Uri.parse("geo:31.196667,29.901389");
+        uri = Uri.parse(getString(R.string.opera_house_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
 
     }
 
     public void entertainClass_index_0() {
         textView.setText(R.string.san_stefano);
-        uri = Uri.parse("geo:31.245755,29.965982");
+        uri = Uri.parse(getString(R.string.san_stefano_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
 
     }
 
     public void entertainClass_index_1() {
         textView.setText(R.string.city_centre);
-        uri = Uri.parse("geo:31.168703,29.932259");
+        uri = Uri.parse(getString(R.string.city_centre_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
     }
 
     public void entertainClass_index_2() {
         textView.setText(R.string.northern_coast);
-        uri = Uri.parse("geo:30.9279041,29.2986713");
+        uri = Uri.parse(getString(R.string.northern_coast_coordinates));
         locationIntent = new Intent(Intent.ACTION_VIEW, uri);
-        locationIntent.setPackage("com.google.android.apps.maps");
+        locationIntent.setPackage(getString(R.string.google_maps_package));
     }
 
     public void eventsClass_index_0() {

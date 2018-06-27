@@ -20,9 +20,9 @@ public class Entertainment extends Fragment {
         View rootView = inflater.inflate(R.layout.data_list, container, false);
 
         final ArrayList<Data> ent = new ArrayList<>();
-        ent.add(new Data(R.drawable.san_stefano,"San Stefano Grand Plaza"));
-        ent.add(new Data(R.drawable.city_centre,"City Centre"));
-        ent.add(new Data(R.drawable.northern_coast,"Northern Coast"));
+        ent.add(new Data(R.drawable.san_stefano, getString(R.string.san_txt)));
+        ent.add(new Data(R.drawable.city_centre, getString(R.string.city_txt)));
+        ent.add(new Data(R.drawable.northern_coast, getString(R.string.coast_txt)));
         Adapter adapter = new Adapter(getActivity(),ent);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
@@ -30,7 +30,7 @@ public class Entertainment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(getActivity(),DetailsActivity.class);
-                intent.putExtra("getdata",(Parcelable) ent.get(position));
+                intent.putExtra(getString(R.string.getdata), (Parcelable) ent.get(position));
                 startActivity(intent);
             }
         });

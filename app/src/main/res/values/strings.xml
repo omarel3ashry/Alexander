@@ -331,14 +331,37 @@
         1999 – Swedish Institute Alexandria established.\n
     </string>
 
-
-    <string name="Fragment1">Geo</string>
-    <string name="Fragment2">Historical</string>
-    <string name="Fragment3">Public</string>
-    <string name="Fragment4">Entertainment</string>
-    <string name="Fragment5">Events</string>
-    <string name="Fragment6">Secrets</string>
     <string name="title">Title</string>
     <string name="data">Data</string>
     <string name="details">Details</string>
+    <string name="location_in_egypt">Location in Egypt</string>
+    <string name="climate_txt">Climate</string>
+    <string name="getdata">getdata</string>
+    <string name="alexander_txt">Alexander The Great</string>
+    <string name="islams_era_txt">Muhammad\'s era</string>
+    <string name="ibn_battuta_text">Ibn Battuta in Alex</string>
+    <string name="temple_txt">Temple of Taposiris Magna</string>
+    <string name="library_txt">Library of Alexandria</string>
+    <string name="graeco_roman_txt">Graeco-Roman Museum</string>
+    <string name="montaza_txt">Montaza Palace</string>
+    <string name="alex_opera_txt">Alexandria Opera House</string>
+    <string name="greek_era_txt">Greek era</string>
+    <string name="byzantine_muslim_txt"><![CDATA[Byzantine & Muslim Rules]]></string>
+    <string name="the_19th_txt">19th Century</string>
+    <string name="the_20th_txt">20th Century</string>
+    <string name="san_txt">San Stefano Grand Plaza</string>
+    <string name="city_txt">City Centre</string>
+    <string name="coast_txt">Northern Coast</string>
+    <string name="alex_location_coordinates">geo:31.2,29.916667</string>
+    <string name="google_maps_package">com.google.android.apps.maps</string>
+    <string name="alex_library_coordinates">geo:31.208889,29.909167</string>
+    <string name="graeco_roman_coordinates">geo:31.199259,29.906872</string>
+    <string name="montaza_palace_coordinates">geo:31.2886,30.0159</string>
+    <string name="opera_house_coordinates">geo:31.196667,29.901389</string>
+    <string name="san_stefano_coordinates">geo:31.245755,29.965982</string>
+    <string name="city_centre_coordinates">geo:31.168703,29.932259</string>
+    <string name="northern_coast_coordinates">geo:30.9279041,29.2986713</string>
+    <string name="the_head_image_of_the_app">The Head Image Of The App</string>
+    <string name="the_head_image_of_second_activity">The Head Image Of Second Activity</string>
+    <string name="the_image_of_each_row_in_the_list">The Image Of Each Row In The List</string>
 </resources>

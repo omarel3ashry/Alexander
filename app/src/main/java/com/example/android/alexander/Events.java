@@ -20,10 +20,10 @@ public class Events extends Fragment {
         View rootView = inflater.inflate(R.layout.data_list, container, false);
 
         final ArrayList<Data> events = new ArrayList<>();
-        events.add(new Data(R.drawable.hourglass, "Greek era"));
-        events.add(new Data(R.drawable.hourglass, "Byzantine & Muslim Rules"));
-        events.add(new Data(R.drawable.hourglass, "19th Century"));
-        events.add(new Data(R.drawable.hourglass, "20th Century"));
+        events.add(new Data(R.drawable.hourglass, getString(R.string.greek_era_txt)));
+        events.add(new Data(R.drawable.hourglass, getString(R.string.byzantine_muslim_txt)));
+        events.add(new Data(R.drawable.hourglass, getString(R.string.the_19th_txt)));
+        events.add(new Data(R.drawable.hourglass, getString(R.string.the_20th_txt)));
         Adapter adapter = new Adapter(getActivity(), events);
         ListView listView = rootView.findViewById(R.id.list);
         listView.setAdapter(adapter);
@@ -31,7 +31,7 @@ public class Events extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Intent intent = new Intent(getActivity(), DetailsActivity.class);
-                intent.putExtra("getdata", (Parcelable) events.get(position));
+                intent.putExtra(getString(R.string.getdata), (Parcelable) events.get(position));
                 startActivity(intent);
             }
         });
